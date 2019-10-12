@@ -1,0 +1,6 @@
+classes=2
+train=./data/image_paths.txt
+valid=./data/image_paths.txt
+names=./data/coco.names
+backup=backup/
+eval=coco
